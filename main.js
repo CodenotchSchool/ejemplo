@@ -1,3 +1,9 @@
 console.log("hola");
 
-console.log("Hola que tal");
+
+console.log("Adios");
+
+console.log("Hastaluego");
+
+
+
